@@ -1,3 +1,9 @@
+Integrantes:
+Rafael Miranda Oliveira Nascimento;
+João Vitor Mota dos Reis;
+Henrick Cardoso dos Santos;
+Yuri santana oliveira;
+
 Descrição do trabalho (evolução das implementações) a estrela
 
 Este projeto implementa o algoritmo A* e evolui a aplicação de forma incremental. Primeiro, o A* foi validado em um grafo pequeno e fixo para confirmar a lógica do caminho mínimo. Em seguida, o grafo passou a ser gerado automaticamente como uma matriz N×N, sendo o n escolhido pelo usuario -com  movimentos  apenas norte, sul, leste, oeste e como opcional é possivel adicional movimentos diagonais- e o resultado começou a ser exibido no terminal como um “mapa” em formato de grade.
