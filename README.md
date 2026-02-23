@@ -10,3 +10,5 @@ Este projeto implementa o algoritmo A* e evolui a aplicação de forma increment
 
 
 Depois, o projeto foi expandido para uma simulação em turnos, onde um caçador recalcula o A* a cada passo. O comportamento de alvo móvel (pega-pega) foi adicionado como opção: o alvo pode ficar fixo ou se mover aleatoriamente a cada turno. Para aumentar a complexidade sem alterar a lógica do A*, foram adicionados obstáculos no tabuleiro, melhorias de visualização (legenda e símbolos) e variações configuráveis de dificuldade: obstáculos móveis (opcional) e aumento de obstáculos por turno (opcional), permitindo ao usuário escolher o nível de desafio, além disso o usuário é capaz de escolher a duração máxima de turnos da partida.
+
+Para usar basta apenas baixar o codigo do projeto final ( "projetoProva -7_organizado_Astar.ipynb") e  rodar em uma ide que tenha o python instalado. de preferencia a usar ide como o jupiter ou vscode com extensao para jupiter pois o arquivo esta nesse formato.
